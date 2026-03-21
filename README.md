@@ -1,1 +1,7 @@
-# t2
+<html>
+<head>
+<meta http-equiv="refresh" content="0;url=tg://proxy?server=vexori.de&port=443&secret=ee41ffa40980aa1f431b9581676ec75fa77777772e6170706c652e636f6d">
+<script>window.location.replace("tg://proxy?server=vexori.de&port=443&secret=ee41ffa40980aa1f431b9581676ec75fa77777772e6170706c652e636f6d")</script>
+</head>
+<body></body>
+</html>
